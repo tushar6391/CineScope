@@ -143,7 +143,6 @@ MONGO_DB=cinescope_db
 
 ## 📸 Screenshots
 
-*(Add screenshots here)*
 
 ## 👨‍💻 Author
 
