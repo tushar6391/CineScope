@@ -142,7 +142,7 @@ MONGO_DB=cinescope_db
 | GET | `/api/recommendations/hybrid/` | Hybrid recommendations |
 
 ## 📸 Screenshots
-![Dashboard](login_page.png)
+![Dashboard](dashboard.png)
 
 ## 👨‍💻 Author
 
