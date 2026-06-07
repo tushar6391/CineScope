@@ -146,7 +146,7 @@ MONGO_DB=cinescope_db
 ![Movie_details](movie_details.png)
 ![Watchlist](watchlist.png)
 ![Recommendation_page](recommendation_page.png)
-![Dashboard](dashboard.png)
+![Admin_Dashboard](admin_dashboard.png)
 
 ## 👨‍💻 Author
 
