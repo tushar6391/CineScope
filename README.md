@@ -144,7 +144,7 @@ MONGO_DB=cinescope_db
 ## 📸 Screenshots
 ![Dashboard](dashboard.png)
 ![Movie_details](movie_details.png)
-![Dashboard](dashboard.png)
+![Watchlist](watchlist.png)
 ![Dashboard](dashboard.png)
 ![Dashboard](dashboard.png)
 
